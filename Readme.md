@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Екатерина](https://up.htmlacademy.ru/htmlcss-individual/2/user/2615073).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Варнавсий](https://htmlacademy.ru/profile/anton_varnauski).
 
 ---
 
